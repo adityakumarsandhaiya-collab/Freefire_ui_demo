@@ -61,8 +61,6 @@ This project **does NOT interact with Free Fire servers** in any way.
 ## 👿 Author
 ---
 
----
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=2500&pause=800&color=E1306C&center=true&vCenter=true&width=500&lines=Made+with+%E2%9D%A4%EF%B8%8F+by+Pravin;Frontend+UI+Learner;Educational+Projects+Only" />
 </p>
@@ -80,3 +78,4 @@ This project **does NOT interact with Free Fire servers** in any way.
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:4285F4,100:34A853&height=2&section=footer" />
 </p>
+---

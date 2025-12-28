@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <b>🔥 Free Fire • Fan Project • UI / Info / Tools Showcase 🔥</b>
+  <b>🔥 Free Fire • Project • UI / Info / Tools Showcase 🔥</b>
 </p>
 
 <p align="center">
@@ -61,16 +61,18 @@ This project **does NOT interact with Free Fire servers** in any way.
 ## 👿 Author
 ---
 
+---
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=2500&pause=800&color=E1306C&center=true&vCenter=true&width=500&lines=Made+with+%E2%9D%A4%EF%B8%8F+by+Pravin;Frontend+UI+Learner;Educational+Projects+Only" />
 </p>
 
 <p align="center">
-  <a href="https://instagram.com/your_instagram_username" target="_blank">
+  <a href="https://instagram.com/mishra_143p" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-Follow-%23E1306C?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://t.me/your_telegram_channel" target="_blank">
+  <a href="https://t.me/HackPulse_Zero" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-Join-%230088cc?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
 </p>

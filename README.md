@@ -58,12 +58,6 @@ This project **does NOT interact with Free Fire servers** in any way.
 
 ---
 
-## 🛠️ Tech Stack
-
-```text
-HTML5        – Structure
-CSS3         – Styling & animations
-JavaScript   – UI interactions (demo only)
 ## 👿 Author
 ---
 
